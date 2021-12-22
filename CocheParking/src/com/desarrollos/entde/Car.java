@@ -39,7 +39,7 @@ public class Car
 
     public void printGarage() {
 		// TODO Auto-generated method stub
-    	System.out.println(this.theGarage);
+    	this.theGarage.printGarage();
 		
 	}
 	/**
